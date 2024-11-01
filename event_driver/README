@@ -1,0 +1,49 @@
+Event driver
+------------
+
+
+What is this?
+-------------
+The event driver is used to monitor files on your personal mail server and send process commands to your e-mail reflector installation.
+
+This greatly improves reaction times.
+
+
+Requirements
+------------
+
+* Installed ThreeWP E-mail Reflector
+* The event key from the reflector general settings
+* A mailserver of some kind
+* A URL where the mail server can reach the reflector
+* bash
+* wget
+* multitail
+
+
+Installation
+------------
+
+* Install the e-mail reflector and take note of the event key.
+* Copy this directory somewhere on the mail server.
+* Copy examples/conf.d/* to conf.d.
+* Modify event.conf, monitor.conf.
+* Copy whatever filters you want to use from examples/filters.d/ to filters.d.
+* Copy the filters' conf files from examples/conf.d/ to conf.d.
+* Modify the filters' conf files.
+* Put event.sh somewhere in your startup files. Perhaps in /etc/rc.local? cd /opt/threewp-email-reflector/event_driver/ && nohup ./ monitor.sh
+
+As of 2012-12-04, only Dovecot is supported but new filters can be written freely.
+
+
+How it works
+------------
+
+The monitor.sh script will monitor your e-mail server log files for changes, specifically changes that say "a new message has been stored". These lines from the log file are then sent to the installed filters (if any).
+
+The filters decide whether the message is handled by the e-mail reflector.
+
+If so, event.sh is run with the e-mail address as the parameter. It assembles a long URL and then fetches it from the server where the e-mail reflector is installed.
+
+The reflector will then search through all of the lists and tell the lists that have the specified e-mail address as a contact address, that the IMAP account should be processed.
+

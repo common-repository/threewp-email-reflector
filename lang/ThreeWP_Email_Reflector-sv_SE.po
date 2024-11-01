@@ -1,0 +1,1259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThreeWP Email Reflector\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-12 00:00+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Edward Plainview <edward@plainview.se>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+
+#: ThreeWP_Email_Reflector.php:2706
+#, php-format
+msgid "%s messages found in <em>%s</em>."
+msgstr "%s meddelanden hittade i <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:2704
+#, php-format
+msgid "%s messages found."
+msgstr "%s meddelanden hittade."
+
+#: ThreeWP_Email_Reflector.php:360
+#, php-format
+msgid "%s moderators"
+msgstr "%s moderatorer"
+
+#: ThreeWP_Email_Reflector.php:354
+#, php-format
+msgid "%s readers"
+msgstr "%s läsare"
+
+#: ThreeWP_Email_Reflector.php:3118
+#, php-format
+msgid "%s sent from <em>%s</em> for <em>%s</em>. Code: <em>%s</em>"
+msgstr "%s skickades från <em>%s</em> för <em>%s</em>. Koden: <em>%s</em>"
+
+#: ThreeWP_Email_Reflector.php:357
+#, php-format
+msgid "%s writers"
+msgstr "%s författare"
+
+#: ThreeWP_Email_Reflector.php:830
+#: ThreeWP_Email_Reflector.php:982
+msgid "&laquo;"
+msgstr "%s ago"
+
+#: ThreeWP_Email_Reflector.php:831
+#: ThreeWP_Email_Reflector.php:983
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ThreeWP_Email_Reflector.php:1714
+msgid "143 is the standard port for IMAP. 993 is the standard IMAP SSL port."
+msgstr "143 är standardporten för IMAP. 993 är standardporten för IMAP SSL."
+
+#: ThreeWP_Email_Reflector.php:3233
+#, php-format
+msgid "<em>%s</em> added to mail queue for <em>%s</em>."
+msgstr "<em>%s</em> har lagts till mailkön för <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:3229
+#, php-format
+msgid "<em>%s</em> is not a valid email address in <em>%s</em>."
+msgstr "<em>%s</em> är inte en giltig adress i  <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:3074
+#, php-format
+msgid "A new message to <em>%s</em> was sent by <em>%s</em>."
+msgstr "Ett nytt meddelande till <em>%s</em> skickades av <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:1635
+msgid "A short name / description of this mailing list. You can use the e-mail address of this list as the name if you want."
+msgstr "Ett kort namn / beskrivning för listan. Du kan använda listans e-postadress som namnet om du vill."
+
+#: ThreeWP_Email_Reflector.php:1045
+#: ThreeWP_Email_Reflector.php:1810
+#: ThreeWP_Email_Reflector.php:1838
+#: ThreeWP_Email_Reflector.php:1850
+msgid "Accept"
+msgstr "Acceptera"
+
+#: ThreeWP_Email_Reflector.php:1839
+#: ThreeWP_Email_Reflector.php:1851
+msgid "Accept and send a confirmation message"
+msgstr "Acceptera och skicka ett bekräftelsemeddelande"
+
+#: ThreeWP_Email_Reflector.php:1683
+msgid "Accept mail to these addresses"
+msgstr "Alias"
+
+#: ThreeWP_Email_Reflector.php:1793
+#: ThreeWP_Email_Reflector.php:1858
+msgid "Acceptance rules"
+msgstr "Regler"
+
+#: ThreeWP_Email_Reflector.php:384
+#: ThreeWP_Email_Reflector.php:2181
+msgid "Access"
+msgstr "Åtkomst"
+
+#: ThreeWP_Email_Reflector.php:1119
+msgid "Access settings for this list have been updated."
+msgstr "Åtkomstinställningarna för den listan har sparats."
+
+#: ThreeWP_Email_Reflector.php:1214
+msgid "Access settings for this user have been updated."
+msgstr "Åtkomstinställningarna för användaren har uppdaterats."
+
+#: ThreeWP_Email_Reflector.php:1823
+msgid "Action for invalid codes"
+msgstr "Åtgärd för ogiltiga koder"
+
+#: ThreeWP_Email_Reflector.php:1835
+msgid "Action for valid authorization codes"
+msgstr "Åtgärd för giltiga bekräftelsekoder"
+
+#: ThreeWP_Email_Reflector.php:1847
+msgid "Action for valid moderation codes"
+msgstr "Åtgärd för giltiga modereringskoder"
+
+#: ThreeWP_Email_Reflector.php:456
+msgid "Activate"
+msgstr "Aktivera"
+
+#: ThreeWP_Email_Reflector.php:1776
+msgid "Add this suffix into the subject if it doesn't already exist."
+msgstr "Text att infoga i slutet på ämnesraden."
+
+#: ThreeWP_Email_Reflector.php:1673
+msgid "Administrative reply-to address"
+msgstr "Administrativ svara-till adress"
+
+#: ThreeWP_Email_Reflector.php:1799
+msgid "All messages must be authorized"
+msgstr "Alla meddelanden måste bekräftas"
+
+#: ThreeWP_Email_Reflector.php:1162
+#, php-format
+msgid "Allow specific users access to the various parts of mailing list %s."
+msgstr "Tillåt specifika användare att komma åt olika delar av mailinglistan %s."
+
+#: ThreeWP_Email_Reflector.php:1265
+msgid "Allow this user access to the various parts of the mailing lists."
+msgstr "Tillåt specifika användare att komma åt olika delar av mailinglistorna."
+
+#: ThreeWP_Email_Reflector.php:2259
+msgid "Allow user to start a collection."
+msgstr "Tillåt användaren att påbörja en samling."
+
+#: ThreeWP_Email_Reflector.php:465
+#: ThreeWP_Email_Reflector.php:903
+#: ThreeWP_Email_Reflector.php:1053
+msgid "Apply"
+msgstr "Verkställ"
+
+#: ThreeWP_Email_Reflector.php:1012
+msgid "Authorization"
+msgstr "Autentisering"
+
+#: ThreeWP_Email_Reflector.php:1671
+msgid "Authorization and moderation requests are sent from this address. This is useful in case you want normal replies to go to a specific person, but authorization and moderation requests to go to the mail daemons address."
+msgstr "Bekräftelse- och moderationsmail skickas från den här adressen. Detta kan vara användbart ifall normala svar ska gå till en specifik adress, men bekräftelse- och moderationsmail ska gå till tilläggets mailadress."
+
+#: ThreeWP_Email_Reflector.php:3016
+#: ThreeWP_Email_Reflector.php:3054
+#, php-format
+msgid "Authorization confirmation message was sent to <em>%s</em> for <em>%s</em>."
+msgstr "Bekräftelse-bekräftelse skickades till <em>%s</em> för <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:3084
+msgid "Authorization request"
+msgstr "Begäran om bekräftelse"
+
+#: ThreeWP_Email_Reflector.php:1896
+msgid "Authorization writers"
+msgstr "Författare som måste bekräfta sina mails"
+
+#: ThreeWP_Email_Reflector.php:2082
+msgid "Batch size"
+msgstr "Mailantal"
+
+#: ThreeWP_Email_Reflector.php:2061
+msgid "CURL follows redirects"
+msgstr "CURL följer vidarebefordran"
+
+#: ThreeWP_Email_Reflector.php:2349
+msgid "CURL handling (sending and fetching of messages)"
+msgstr "CURL-hantering (mailhämtning och -skickande)"
+
+#: ThreeWP_Email_Reflector.php:1644
+msgid "Check the mailing list automatically for new mail."
+msgstr "Kolla mailinglistan automatiskt för nya mails"
+
+#: ThreeWP_Email_Reflector.php:1073
+msgid "Code"
+msgstr "Kod"
+
+#: ThreeWP_Email_Reflector.php:3287
+msgid "Code is valid."
+msgstr "Koden är giltig."
+
+#: ThreeWP_Email_Reflector.php:1074
+msgid "Code type"
+msgstr "Kodtyp"
+
+#: ThreeWP_Email_Reflector.php:2227
+msgid "Codes"
+msgstr "Koder"
+
+#: ThreeWP_Email_Reflector.php:2196
+#: ThreeWP_Email_Reflector.php:2258
+msgid "Collect"
+msgstr "Samla"
+
+#: ThreeWP_Email_Reflector.php:505
+msgid "Collect all active mailing lists"
+msgstr "Samla alla aktiva listor"
+
+#: ThreeWP_Email_Reflector.php:393
+msgid "Collect now"
+msgstr "Samla nu"
+
+#: ThreeWP_Email_Reflector.php:350
+#, php-format
+msgid "Collected: %s"
+msgstr "Samlat: %s"
+
+#: ThreeWP_Email_Reflector.php:2146
+msgid "Collection"
+msgstr "Samling"
+
+#: ThreeWP_Email_Reflector.php:321
+msgid "Collection complete."
+msgstr "Samling avslutad."
+
+#: ThreeWP_Email_Reflector.php:2343
+msgid "Collection of mail from the various servers"
+msgstr "Samling av mail från de olika servrarna"
+
+#: ThreeWP_Email_Reflector.php:1730
+msgid "Connect to servers with self-signed SSL certificates."
+msgstr "Anslut till servrar med hemmagjorda SSL certifikat."
+
+#: ThreeWP_Email_Reflector.php:686
+#, php-format
+msgid "Connecting to <em>%s</em> with username <em>%s</em>."
+msgstr "Ansluter till <em>%s</em> med användarnamnet <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:2038
+msgid "Connections"
+msgstr "Anslutningar"
+
+#: ThreeWP_Email_Reflector.php:2049
+msgid "Connections per server"
+msgstr "Anslutningar per server"
+
+#: ThreeWP_Email_Reflector.php:3125
+#, php-format
+msgid "Could not send %s from <em>%s</em> for <em>%s</em>. Code: <em>%s</em>"
+msgstr "Kunde inte skicka %s från <em>%s</em> för <em>%s</em>. Koden: <em>%s</em>"
+
+#: ThreeWP_Email_Reflector.php:3018
+#: ThreeWP_Email_Reflector.php:3056
+#, php-format
+msgid "Could not send authorization confirmation message to <em>%s</em> for <em>%s</em>."
+msgstr "Kunde inte skicka bekräftelse-godkännande till <em>%s</em> för <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:2953
+#, php-format
+msgid "Could not send invalid code message to <em>%s</em> for <em>%s</em>."
+msgstr "Kunde inte skicka meddelande om ogiltig kod  till <em>%s</em> för <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:2982
+#, php-format
+msgid "Could not send rejection message to <em>%s</em> for <em>%s</em>."
+msgstr "Kunde inte skicka förkastningsmailet till <em>%s</em> för <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:511
+msgid "Create a new mailing list"
+msgstr "Skapa en ny mailinglista"
+
+#: ThreeWP_Email_Reflector.php:1334
+msgid "Cron complete."
+msgstr "Cron avslutad."
+
+#: ThreeWP_Email_Reflector.php:1989
+msgid "Cron delay"
+msgstr "Cronväntetid"
+
+#: ThreeWP_Email_Reflector.php:1075
+msgid "Date"
+msgstr "Datum"
+
+#: ThreeWP_Email_Reflector.php:457
+msgid "Deactivate"
+msgstr "Avaktivera"
+
+#: ThreeWP_Email_Reflector.php:2024
+msgid "Decrease the priority of a batch by one per every x readers. The default value of 50 decreases the priority of a batch by one per every 50 readers."
+msgstr "För varje x antal läsare, sänk prioriteten med 1. Standardvärdet på 50 sänker mailutskickets prioritet med 1 per 50 läsare."
+
+#: ThreeWP_Email_Reflector.php:403
+#: ThreeWP_Email_Reflector.php:458
+#: ThreeWP_Email_Reflector.php:895
+#: ThreeWP_Email_Reflector.php:1046
+#: ThreeWP_Email_Reflector.php:2172
+msgid "Delete"
+msgstr "Ta bort"
+
+#: ThreeWP_Email_Reflector.php:2171
+#, php-format
+msgid "Delete %s"
+msgstr "Ta bort %s"
+
+#: ThreeWP_Email_Reflector.php:2060
+msgid "Depending on your .htaccess settings, you might need the CURL fetchers to follow redirects. Enable this if mails aren't being queued but not sent."
+msgstr "Beroende på dina .htaccess-inställningar kommer du kanske behöva att CURL-kommandona följer vidarebefordringar. Bocka i rutan ifall brev läggs i kön men inte skickas iväg."
+
+#: ThreeWP_Email_Reflector.php:455
+#: ThreeWP_Email_Reflector.php:894
+#: ThreeWP_Email_Reflector.php:1044
+msgid "Do nothing"
+msgstr "Gör inget"
+
+#: ThreeWP_Email_Reflector.php:704
+msgid "Done."
+msgstr "Färdig."
+
+#: ThreeWP_Email_Reflector.php:1787
+msgid "E-mail addresses are specified one per line. When pasting new addresses they may be comma or space separated on one line. The addresses will be separated and sorted when the settings are saved."
+msgstr "E-postadresser anges en på varje rad. Om man klistrar in nya adresser från andra program kan de anges på samma rad med komma eller mellanrum mellan varje. Adresserna kommer att sperareas och sorteras när inställningarna sparas."
+
+#: ThreeWP_Email_Reflector.php:376
+#: ThreeWP_Email_Reflector.php:2190
+msgid "Edit"
+msgstr "Redigera"
+
+#: ThreeWP_Email_Reflector.php:2207
+#, php-format
+msgid "Edit list access for %s"
+msgstr "Redigera åtkomst för %s"
+
+#: ThreeWP_Email_Reflector.php:2279
+msgid "Edit readers and writers"
+msgstr "Redigera läsare och författare"
+
+#: ThreeWP_Email_Reflector.php:2189
+#, php-format
+msgid "Editing %s"
+msgstr "Redigerar %s"
+
+#: ThreeWP_Email_Reflector.php:2180
+#, php-format
+msgid "Editing access for %s"
+msgstr "Redigerar tillång för %s"
+
+#: ThreeWP_Email_Reflector.php:2946
+msgid "Either there was no such code or an autoreply function has already replied to the message containing the code."
+msgstr "Antingen fanns ingen sådan kod eller ett automatsvar har redan besvarat meddelandet."
+
+#: ThreeWP_Email_Reflector.php:1597
+msgid "Email Reflector access"
+msgstr "Åtkomst till mailinglistorna"
+
+#: ThreeWP_Email_Reflector.php:1979
+msgid "Enable global collection and sending of queued messages. If disabled, no lists will be collected at all."
+msgstr "Slå på samling och mailskickande för hela tillägget. Om inställningen inte är ikryssad kommer inga listor att samlas alls."
+
+#: ThreeWP_Email_Reflector.php:1646
+#: ThreeWP_Email_Reflector.php:1980
+msgid "Enabled"
+msgstr "Aktiverat"
+
+#: ThreeWP_Email_Reflector.php:2094
+msgid "Event key"
+msgstr "Händelsenyckel"
+
+#: ThreeWP_Email_Reflector.php:2735
+#, php-format
+msgid "Expunged <em>%s</em>."
+msgstr "Stängde  och tömde <em>%s</em>..."
+
+#: ThreeWP_Email_Reflector.php:868
+#, php-format
+msgid "Failures to send: %s"
+msgstr "Misslyckade sändningsförsök: %s"
+
+#: ThreeWP_Email_Reflector.php:863
+#, php-format
+msgid "From: %s"
+msgstr "Från: %s"
+
+#: ThreeWP_Email_Reflector.php:1018
+#, php-format
+msgid "From: <em>%s</em>"
+msgstr "Från: <em>%s</em>"
+
+#: ThreeWP_Email_Reflector.php:2140
+msgid "General"
+msgstr "Allmänt"
+
+#: ThreeWP_Email_Reflector.php:1950
+#: ThreeWP_Email_Reflector.php:2264
+msgid "General settings"
+msgstr "Inställningar"
+
+#: ThreeWP_Email_Reflector.php:1705
+msgid "Host name"
+msgstr "Servernamn"
+
+#: ThreeWP_Email_Reflector.php:1652
+msgid "How long to wait between collections."
+msgstr "Hur lång tid att vänta mellan samlingar."
+
+#: ThreeWP_Email_Reflector.php:2012
+msgid "How many days to keep codes and messages in the queue. The default is 7."
+msgstr "Hur länge ska koder och meddelanden sparas i kön. Standardvärdet är 7 (dagar)."
+
+#: ThreeWP_Email_Reflector.php:2081
+msgid "How many emails to send per batch (cron). The default is 25."
+msgstr "Hur många mails programmet ska skicka åt gången. Standardvärdet är 25."
+
+#: ThreeWP_Email_Reflector.php:2069
+msgid "How many emails to send simultaneously."
+msgstr "Hur många mails att skicka samtidigt."
+
+#: ThreeWP_Email_Reflector.php:2000
+msgid "How many items to show per page when showing lists that can be paged. Default is 100."
+msgstr "Hur många rader att visa per sida när listor visas. Standardvärdet är 100."
+
+#: ThreeWP_Email_Reflector.php:1988
+msgid "How often, in minutes, to wait between collections (cron). The default is 5."
+msgstr "Hur ofta, i minuter, programmet måste vänta mellan samlingar (cron). Standardvärdet är 5."
+
+#: ThreeWP_Email_Reflector.php:925
+msgid "ID"
+msgstr "ID"
+
+#: ThreeWP_Email_Reflector.php:2352
+msgid "IMAP calls"
+msgstr "IMAP-funktioner"
+
+#: ThreeWP_Email_Reflector.php:1953
+msgid "IMAP server"
+msgstr "IMAP server"
+
+#: ThreeWP_Email_Reflector.php:2269
+msgid "IMAP settings"
+msgstr "IMAP-inställningar"
+
+#: ThreeWP_Email_Reflector.php:2531
+#, php-format
+msgid "IMAP stream <em>%s</em> could not be opened."
+msgstr "IMAP-kontot <em>%s</em> kunde inte öppnas."
+
+#: ThreeWP_Email_Reflector.php:692
+msgid "IMAP stream could not be opened!"
+msgstr "IMAP-kontot kunde inte öppnas!"
+
+#: ThreeWP_Email_Reflector.php:2340
+msgid "Identification and processing of codes"
+msgstr "Identifiering och behandling av koder"
+
+#: ThreeWP_Email_Reflector.php:2111
+msgid "If enabled will display all the existing mailing lists in the overview, even if the user isn't allowed to edit them."
+msgstr "Visar alla mailinglistor för alla användare i översikten, även om användaren inte får redigera listan."
+
+#: ThreeWP_Email_Reflector.php:3008
+msgid "If the list is moderated your message will now be sent to the moderators. If not, the readers will soon receive a copy of your message."
+msgstr "Om listan är modererad kommer ditt meddelande att skickas till moderatorerna. Annars kommer läsarna strax att få var sin kopia av ditt meddelande."
+
+#: ThreeWP_Email_Reflector.php:1826
+msgid "Ignore"
+msgstr "Ignorera"
+
+#: ThreeWP_Email_Reflector.php:1827
+msgid "Ignore and inform the user that the code was considered invalid"
+msgstr "Ignorera och informera användaren att koden var ogiltig"
+
+#: ThreeWP_Email_Reflector.php:1729
+msgid "Ignore certificate"
+msgstr "Acceptera hemmagjorda SSL certifikat"
+
+#: ThreeWP_Email_Reflector.php:2907
+#, php-format
+msgid "Ignoring message from <em>%s</em> to <em>%s</em>."
+msgstr "Ignorerar meddelandet från <em>%s</em> till <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:2905
+#, php-format
+msgid "Ignoring message from <em>%s</em>."
+msgstr "Ignorerar meddelandet från <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:1682
+msgid "In addition to the above reply-to address, accept messages that are sent to the above addresses. Useful when forwarding mails to the list from other email addresses."
+msgstr "Ange vilka mailadresser också går till listan."
+
+#: ThreeWP_Email_Reflector.php:491
+#: ThreeWP_Email_Reflector.php:928
+#: ThreeWP_Email_Reflector.php:1076
+msgid "Info"
+msgstr "Info"
+
+#: ThreeWP_Email_Reflector.php:1766
+msgid "Insert this prefix into the line if it doesn't already exist."
+msgstr "Text att infoga i början på ämnesraden."
+
+#: ThreeWP_Email_Reflector.php:3279
+#, php-format
+msgid "Invalid code from <em>%s</em> for <em>%s</em>. Code: <em>%s</em>"
+msgstr "Ogiltig kod från <em>%s</em> för <em>%s</em>. Kod: <em>%s</em>"
+
+#: ThreeWP_Email_Reflector.php:3268
+#, php-format
+msgid "Invalid code from <em>%s</em>: %s"
+msgstr "Ogiltig kod från <em>%s</em>: %s"
+
+#: ThreeWP_Email_Reflector.php:2951
+#, php-format
+msgid "Invalid code message was sent to <em>%s</em> for <em>%s</em>."
+msgstr "Meddelande om ogiltig kod har skickats till <em>%s</em> för <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:2939
+#, php-format
+msgid "Invalid code sent to %s"
+msgstr "Ogiltig kod skickades till %s"
+
+#: ThreeWP_Email_Reflector.php:3250
+#, php-format
+msgid "Is <em>%s</em> a code?"
+msgstr "Är <em>%s</em> en kod?"
+
+#: ThreeWP_Email_Reflector.php:2001
+msgid "Items per page"
+msgstr "Rader per sida"
+
+#: ThreeWP_Email_Reflector.php:297
+#, php-format
+msgid "List <em>%s</em> deleted."
+msgstr "Listan <em>%s</em> har tagits bort."
+
+#: ThreeWP_Email_Reflector.php:312
+#, php-format
+msgid "List created! <a href=\"%s\">Edit the newly-created list</a>."
+msgstr "Lista skapad! <a href=\"%s\">Redigera den nya listan</a>."
+
+#: ThreeWP_Email_Reflector.php:345
+msgid "List is disabled."
+msgstr "Listan är inaktiverad."
+
+#: ThreeWP_Email_Reflector.php:1637
+msgid "List name"
+msgstr "Listnamn"
+
+#: ThreeWP_Email_Reflector.php:862
+#, php-format
+msgid "List: %s"
+msgstr "Lista: %s"
+
+#: ThreeWP_Email_Reflector.php:1016
+#, php-format
+msgid "List: <em>%s</em>"
+msgstr "Lista: <em>%s</em>"
+
+#: ThreeWP_Email_Reflector.php:714
+msgid "Lists to modify"
+msgstr "Listor att ändra"
+
+#: ThreeWP_Email_Reflector.php:1271
+msgid "Mailing list"
+msgstr "Mailinglista"
+
+#: ThreeWP_Email_Reflector.php:2225
+msgid "Mass edit"
+msgstr "Massredigera"
+
+#: ThreeWP_Email_Reflector.php:2048
+msgid "Maximum amount of connections per each unique server name. 0 is unlimited. The default is 10."
+msgstr "Maxantal anslutningar per unikt servernamn. 0 betyder obegränsat. Standardvärdet är 10."
+
+#: ThreeWP_Email_Reflector.php:2326
+#, php-format
+msgid "Message %s deleted in <em>%s</em>."
+msgstr "Meddelande %s togs bort i <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:3635
+#, php-format
+msgid "Message %s to <em>%s</em> could not be sent."
+msgstr "Meddelande %s till <em>%s</em> kunde inte skickas."
+
+#: ThreeWP_Email_Reflector.php:3628
+#, php-format
+msgid "Message %s to <em>%s</em> has failed too many times and been removed from the queue."
+msgstr "Meddelande %s till <em>%s</em> kunde inte skickas igen och har därmed tagits bort från kön."
+
+#: ThreeWP_Email_Reflector.php:3629
+#, php-format
+msgid "Message %s to <em>%s</em> removed from queue because of too many failures."
+msgstr "Meddelande %s till <em>%s</em> togs bort från kön på grund av för många misslyckad sändningsförsök."
+
+#: ThreeWP_Email_Reflector.php:3621
+#, php-format
+msgid "Message %s to <em>%s</em> removed from queue."
+msgstr "Meddelande %s till <em>%s</em> togs bort från kön."
+
+#: ThreeWP_Email_Reflector.php:2727
+#, php-format
+msgid "Message %s to <em>%s</em> was from <em>%s</em> and therefore invalid."
+msgstr "Meddelande %s till <em>%s</em> var från <em>%s</em> och därmed ogiltig."
+
+#: ThreeWP_Email_Reflector.php:804
+#, php-format
+msgid "Message <em>%s</em> could not be sent."
+msgstr "Meddelande <em>%s</em> kunde inte skickas."
+
+#: ThreeWP_Email_Reflector.php:794
+#, php-format
+msgid "Message <em>%s</em> has been removed from the queue."
+msgstr "Meddelande <em>%s</em> har tagits bort från kön."
+
+#: ThreeWP_Email_Reflector.php:802
+#, php-format
+msgid "Message <em>%s</em> has been sent."
+msgstr "Meddelande <em>%s</em> har skickats."
+
+#: ThreeWP_Email_Reflector.php:3620
+#, php-format
+msgid "Message sent to <em>%s</em>."
+msgstr "Meddelandet skickades till <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:1909
+msgid "Messages from these email addresses will not be moderated even though there are moderators set."
+msgstr "Meddelanden från ovanstående författare måste aldrig modereras, oavsett om det finns moderatorer satta eller inte."
+
+#: ThreeWP_Email_Reflector.php:812
+msgid "Messages have been sent."
+msgstr "Mailsen har skickats."
+
+#: ThreeWP_Email_Reflector.php:2299
+#, php-format
+msgid "Messages ignored: %s"
+msgstr "Meddelanden ignorerade: %s"
+
+#: ThreeWP_Email_Reflector.php:2296
+#, php-format
+msgid "Messages reflected: %s"
+msgstr "Mail skickade: %s"
+
+#: ThreeWP_Email_Reflector.php:723
+#: ThreeWP_Email_Reflector.php:1654
+msgid "Minutes between collections"
+msgstr "Minuter mellan samlingar"
+
+#: ThreeWP_Email_Reflector.php:1009
+msgid "Moderation"
+msgstr "Moderering"
+
+#: ThreeWP_Email_Reflector.php:3071
+msgid "Moderation request"
+msgstr "Begäran om moderering"
+
+#: ThreeWP_Email_Reflector.php:1576
+#: ThreeWP_Email_Reflector.php:1867
+msgid "Moderators"
+msgstr "Moderatorer"
+
+#: ThreeWP_Email_Reflector.php:1693
+msgid "Modify the priority of incoming mails with this value. The default modifier is 0."
+msgstr "Prioriteten på inkomna mails ändras med det här värdet. Standardvärdet är 0."
+
+#: ThreeWP_Email_Reflector.php:490
+msgid "Name"
+msgstr "Namn"
+
+#: ThreeWP_Email_Reflector.php:348
+msgid "Never collected."
+msgstr "Aldrig samlat."
+
+#: ThreeWP_Email_Reflector.php:1807
+msgid "Non-writer action"
+msgstr "Åtgärd för icke-författare"
+
+#: ThreeWP_Email_Reflector.php:2036
+msgid "Number of simultaneous connections. Set to 1 to only collect from one server at a time. 0 is unlimited. The default is 10."
+msgstr "Antal simultana anslutningar. 1 innebär att mail samlas från en server åt gången. 0 betyder obegränsat. Standardvärdet är 10."
+
+#: ThreeWP_Email_Reflector.php:2013
+msgid "Old age"
+msgstr "Pensionsålder"
+
+#: ThreeWP_Email_Reflector.php:1738
+msgid "Other imap_open settings"
+msgstr "Andra imap_open inställningar"
+
+#: ThreeWP_Email_Reflector.php:2162
+msgid "Overview"
+msgstr "Översikt"
+
+#: ThreeWP_Email_Reflector.php:1756
+msgid "Password"
+msgstr "Lösenord"
+
+#: ThreeWP_Email_Reflector.php:2346
+msgid "Periodical maintenance functions (<em>cron</em>)"
+msgstr "Tisinställda underhållsfunktioner (<em>cron</em>)"
+
+#: ThreeWP_Email_Reflector.php:3073
+msgid "Please moderate this message:"
+msgstr "Var god moderera det här meddelandet:"
+
+#: ThreeWP_Email_Reflector.php:1713
+msgid "Port"
+msgstr "Port"
+
+#: ThreeWP_Email_Reflector.php:927
+msgid "Priority"
+msgstr "Prioritet"
+
+#: ThreeWP_Email_Reflector.php:2025
+msgid "Priority decrease batch size"
+msgstr "Läsarantal för att sänka prioritet"
+
+#: ThreeWP_Email_Reflector.php:1695
+msgid "Priority modifier"
+msgstr "Prioritetsändring"
+
+#: ThreeWP_Email_Reflector.php:2535
+#, php-format
+msgid "Processing <em>%s</em>."
+msgstr "Behandlar <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:2358
+msgid "Processing of incoming mail"
+msgstr "Behandling av inkomna mail"
+
+#: ThreeWP_Email_Reflector.php:2226
+msgid "Queue"
+msgstr "Sändkö"
+
+#: ThreeWP_Email_Reflector.php:2361
+msgid "Queue actions"
+msgstr "Köhändelser"
+
+#: ThreeWP_Email_Reflector.php:926
+msgid "Queued"
+msgstr "Köad"
+
+#: ThreeWP_Email_Reflector.php:2889
+#: ThreeWP_Email_Reflector.php:2891
+#, php-format
+msgid "Queueing message from <em>%s</em> to <em>%s</em>."
+msgstr "Lägger mailet från <em>%s</em> i kön åt <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:3421
+msgid "Queues cleaned up."
+msgstr "Köerna har städats."
+
+#: ThreeWP_Email_Reflector.php:1916
+#: ThreeWP_Email_Reflector.php:1925
+msgid "Readers"
+msgstr "Läsare"
+
+#: ThreeWP_Email_Reflector.php:1959
+msgid "Readers and writers"
+msgstr "Läsare och författare"
+
+#: ThreeWP_Email_Reflector.php:1926
+msgid "Readers receieve all messages."
+msgstr "Läsare får alla mails till listan."
+
+#: ThreeWP_Email_Reflector.php:1811
+msgid "Reject"
+msgstr "Förkasta"
+
+#: ThreeWP_Email_Reflector.php:1812
+msgid "Reject with message"
+msgstr "Förkasta och skicka ett felmeddelande tillbaka"
+
+#: ThreeWP_Email_Reflector.php:2980
+#, php-format
+msgid "Rejection message was sent to <em>%s</em> for <em>%s</em>."
+msgstr "Förkastningsmail har skickats till <em>%s</em> för <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:1663
+msgid "Reply-to address"
+msgstr "Svara-till adressen"
+
+#: ThreeWP_Email_Reflector.php:1813
+msgid "Require authorization"
+msgstr "Kräv bekräftelse"
+
+#: ThreeWP_Email_Reflector.php:1815
+msgid "Require authorization then send to the moderators"
+msgstr "Kräv bekräftelse och skicka sedan till moderatorerna"
+
+#: ThreeWP_Email_Reflector.php:2103
+msgid "Role to use the mailing list"
+msgstr "Roll för att få använda mailinglistan"
+
+#: ThreeWP_Email_Reflector.php:1721
+msgid "SSL"
+msgstr "SSL"
+
+#: ThreeWP_Email_Reflector.php:1156
+#: ThreeWP_Email_Reflector.php:1259
+#: ThreeWP_Email_Reflector.php:1934
+msgid "Save changes"
+msgstr "Spara inställningarna"
+
+#: ThreeWP_Email_Reflector.php:2122
+msgid "Save new settings"
+msgstr "Spara inställningarna"
+
+#: ThreeWP_Email_Reflector.php:2093
+msgid "Secret event key used when checking incoming events."
+msgstr "Hemlig händelsenyckel som används när programmet får händelser."
+
+#: ThreeWP_Email_Reflector.php:2149
+msgid "Security "
+msgstr "Säkerhet"
+
+#: ThreeWP_Email_Reflector.php:1739
+#, php-format
+msgid "See <a href=\"http://php.net/manual/en/function.imap-open.php\">%s</a>. Start your options with a forward slash."
+msgstr "Läs mer på <a href=\"http://php.net/manual/en/function.imap-open.php\">%s</a>. Påbörja inställningarna med ett snedstreck."
+
+#: ThreeWP_Email_Reflector.php:1138
+msgid "See all of the user's lists"
+msgstr "Visa samtliga användarens listor"
+
+#: ThreeWP_Email_Reflector.php:2253
+msgid "See in overview"
+msgstr "Se i översikten"
+
+#: ThreeWP_Email_Reflector.php:1239
+msgid "See the access settings for this list"
+msgstr "Visa åtkomsten för listan"
+
+#: ThreeWP_Email_Reflector.php:482
+#: ThreeWP_Email_Reflector.php:924
+#: ThreeWP_Email_Reflector.php:1072
+msgid "Selected"
+msgstr "Vald"
+
+#: ThreeWP_Email_Reflector.php:896
+#: ThreeWP_Email_Reflector.php:2143
+msgid "Send"
+msgstr "Skicka"
+
+#: ThreeWP_Email_Reflector.php:2070
+msgid "Send connections"
+msgstr "Anslutningar för att skicka"
+
+#: ThreeWP_Email_Reflector.php:846
+msgid "Send messages in the queue"
+msgstr "Skicka mails från kön"
+
+#: ThreeWP_Email_Reflector.php:1814
+msgid "Send to the moderators"
+msgstr "Skicka till moderatorerna"
+
+#: ThreeWP_Email_Reflector.php:2355
+msgid "Sending of mail"
+msgstr "Mailskickande"
+
+#: ThreeWP_Email_Reflector.php:2228
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ThreeWP_Email_Reflector.php:2112
+msgid "Show all the lists to all users"
+msgstr "Visa alla listor för alla användare"
+
+#: ThreeWP_Email_Reflector.php:1419
+#, php-format
+msgid "Starting %s fetching children."
+msgstr "Startar %s processer för att hämta mail."
+
+#: ThreeWP_Email_Reflector.php:3331
+#, php-format
+msgid "Starting %s sending children."
+msgstr "Startar %s processer för att skicka mail."
+
+#: ThreeWP_Email_Reflector.php:2229
+msgid "Statistics"
+msgstr "Statistik"
+
+#: ThreeWP_Email_Reflector.php:1765
+msgid "Subject line prefix"
+msgstr "Ämnesradprefix"
+
+#: ThreeWP_Email_Reflector.php:1775
+msgid "Subject line suffix"
+msgstr "Ämnesradsuffix"
+
+#: ThreeWP_Email_Reflector.php:865
+#, php-format
+msgid "Subject: %s"
+msgstr "Ämne: %s"
+
+#: ThreeWP_Email_Reflector_Base.php:423
+msgid "Super admin"
+msgstr "Nätverksadministratör"
+
+#: ThreeWP_Email_Reflector.php:1956
+msgid "Text modifications"
+msgstr "Textändringar"
+
+#: ThreeWP_Email_Reflector.php:2274
+msgid "Text settings"
+msgstr "Textinställningar"
+
+#: ThreeWP_Email_Reflector.php:1868
+msgid "The above email adresses are moderators and will each receive the messages that require moderation."
+msgstr "Ovanstående mailadresser går till moderatorer. Alla moderatorer får var sitt mail om meddelanden som måste modereras."
+
+#: ThreeWP_Email_Reflector.php:1897
+msgid "The above writers need to authorize all their messages via a reply e-mail."
+msgstr "Ovanstående författare måste skicka in bekräftelsemail för alla mail de skriver till listan."
+
+#: ThreeWP_Email_Reflector.php:954
+#, php-format
+msgid "The code <em>%s</em> has been accepted."
+msgstr "Koden <em>%s</em> har accepterats."
+
+#: ThreeWP_Email_Reflector.php:962
+#, php-format
+msgid "The code <em>%s</em> has been deleted."
+msgstr "Koden <em>%s</em> har tagits bort."
+
+#: ThreeWP_Email_Reflector.php:2944
+#, php-format
+msgid "The code you tried to send was <em>%s</em>."
+msgstr "Koden du försökte skicka var <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:1579
+msgid "The list below shows all the moderators in the lists."
+msgstr "Listan undertill visar alla moderatorerna som finns inställda i listorna."
+
+#: ThreeWP_Email_Reflector.php:751
+msgid "The lists have been mass edited."
+msgstr "Listorna har massredigerats."
+
+#: ThreeWP_Email_Reflector.php:3047
+msgid "The message has been placed in the send queue and depending on how long the queue is the readers should receive a copy of the message shortly."
+msgstr "Meddelandat har lagts i sändkön. Läsarna bör strax få en kopia på meddelandet, beroende på hur lång sändkön är."
+
+#: ThreeWP_Email_Reflector.php:3005
+#, php-format
+msgid "The message you sent to <em>%s</em> has now been authorized."
+msgstr "Meddelandet du skickade till <em>%s</em> har godkänts."
+
+#: ThreeWP_Email_Reflector.php:3080
+#: ThreeWP_Email_Reflector.php:3091
+msgid "The original message is attached"
+msgstr "Originalmeddelandet bifogas."
+
+#: ThreeWP_Email_Reflector.php:574
+msgid "The settings have been saved!"
+msgstr "Inställningarna har sparats!"
+
+#: ThreeWP_Email_Reflector.php:1885
+msgid "These addresses are either accepted to the list or sent to moderators, depending on whether there are moderators set."
+msgstr "Mail från ovanstående adresser skickas antingen direkt till listan eller till moderatorerna, beroende på om det finns moderatorer satta."
+
+#: ThreeWP_Email_Reflector.php:1786
+msgid "These sections specify which e-mail addresses may write to the group (writers) and which addresses receive messages (readers)."
+msgstr "Följande inställningar innehåller vilka som får skriva meddelanden till listan (författare) och vilka adresser tar emot meddelandena (läsare)."
+
+#: ThreeWP_Email_Reflector.php:1661
+msgid "This is the main e-mail address of the mailing list, to which are replies are to be sent. If left empty, the replies will go back to the person who sent the mail to the mailing list in the first place."
+msgstr "Detta är mailinglistans e-postadress, dit alla svar ska skickas. Om det lämnas tomt kommer svaren att gå tillbaka till personen som skickade mailet från början."
+
+#: ThreeWP_Email_Reflector.php:2791
+msgid "This message is from a moderator."
+msgstr "Meddelandet är från en moderator."
+
+#: ThreeWP_Email_Reflector.php:2801
+msgid "This message is from a non-moderated writer."
+msgstr "Meddelandet är från en icke-modererad författare."
+
+#: ThreeWP_Email_Reflector.php:2832
+msgid "This message is not from a known writer."
+msgstr "Meddelandet är inte från en känd författare."
+
+#: ThreeWP_Email_Reflector.php:2764
+#: ThreeWP_Email_Reflector.php:2775
+#: ThreeWP_Email_Reflector.php:2839
+msgid "This message must be authorized."
+msgstr "Det här meddelandet måste bekräftas"
+
+#: ThreeWP_Email_Reflector.php:2847
+msgid "This message must be moderated."
+msgstr "Det här meddelandet måste modereras."
+
+#: ThreeWP_Email_Reflector.php:2872
+msgid "This message will be accepted."
+msgstr "Meddelandet kommer att accepteras."
+
+#: ThreeWP_Email_Reflector.php:2808
+msgid "This message will be moderated."
+msgstr "Meddelandet måste modereras."
+
+#: ThreeWP_Email_Reflector.php:2856
+msgid "This message will be rejected with a message."
+msgstr "Meddelandet kommer att förkastas med ett felmeddelande."
+
+#: ThreeWP_Email_Reflector.php:2866
+msgid "This message will be rejected."
+msgstr "Meddelandet kommer att förkastas."
+
+#: ThreeWP_Email_Reflector.php:1800
+msgid "This setting forces all messages to be authorized via a reply e-mail. This setting is useful in those situations where the address of the list is known publically, allowing anyone to try to send mail."
+msgstr "Alla meddelanden måste bekräftas av avsändaren genom ett svarsmail. Detta är användbart ifall nätet känner till mailinglistans e-postadress."
+
+#: ThreeWP_Email_Reflector.php:3078
+msgid "To accept the message, reply to this email and immediately press send. If you ignore this email the message will not be accepted into the list."
+msgstr "För att godkänna meddelandet, svara på det här mailet och skicka svaret direkt. Om du ignorerar det här mailet kommer meddelandet inte att godkännas."
+
+#: ThreeWP_Email_Reflector.php:3089
+msgid "To authorize the message, reply to this email and immediately press send."
+msgstr "För att bekräfta meddelandet, svara på det här mailet och skicka svaret direkt."
+
+#: ThreeWP_Email_Reflector.php:770
+msgid "To leave a setting unchanged, leave it empty."
+msgstr "Ska en inställning inte ändras, lämna den tom."
+
+#: ThreeWP_Email_Reflector.php:864
+#, php-format
+msgid "To: %s"
+msgstr "Till: %s"
+
+#: ThreeWP_Email_Reflector.php:1408
+#, php-format
+msgid "Too early to collect <em>%s</em>."
+msgstr "För tidigt att samla <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:1388
+#, php-format
+msgid "Too many connections to <em>%s</em>. Skipping list <em>%s</em>."
+msgstr "För många anslutningar till <em>%s</em>. Hoppar över listan <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:2230
+msgid "Uninstall"
+msgstr "Avinstallera"
+
+#: ThreeWP_Email_Reflector.php:1908
+msgid "Unmoderated writers"
+msgstr "Omodererade författare"
+
+#: ThreeWP_Email_Reflector.php:729
+msgid "Update lists"
+msgstr "Uppdatera listorna"
+
+#: ThreeWP_Email_Reflector.php:1722
+msgid "Use an SSL connection to the server."
+msgstr "Använd SSL för att ansluta"
+
+#: ThreeWP_Email_Reflector.php:2208
+msgid "User access"
+msgstr "Användaråtkomst"
+
+#: ThreeWP_Email_Reflector.php:1748
+msgid "Username"
+msgstr "Användarnamn"
+
+#: ThreeWP_Email_Reflector.php:3284
+#, php-format
+msgid "Valid code from <em>%s</em> for <em>%s</em>. Code: <em>%s</em>"
+msgstr "Giltig kod från <em>%s</em> för <em>%s</em>. Kod: <em>%s</em>"
+
+#: ThreeWP_Email_Reflector.php:2217
+#: ThreeWP_Email_Reflector.php:2284
+msgid "View readers and writers"
+msgstr "Visa läsare och författare"
+
+#: ThreeWP_Email_Reflector.php:2216
+#, php-format
+msgid "Viewing readers and writers for %s"
+msgstr "Visar läsare och författare för %s"
+
+#: ThreeWP_Email_Reflector.php:1836
+msgid "What should the plugin do when a valid authorization code is received from a list writer?"
+msgstr "Vad ska programmet göra när en giltig bekräftelsekod tas emot från en författare?"
+
+#: ThreeWP_Email_Reflector.php:1848
+msgid "What should the plugin do when a valid moderation code is received from a moderator?"
+msgstr "Vad ska programmet göra när en giltig modereringskod har tagits emot av en moderator?"
+
+#: ThreeWP_Email_Reflector.php:1824
+msgid "What should the plugin do when an invalid code is received?"
+msgstr "Vad ska programmet göra när en ogiltig kod tas emot?"
+
+#: ThreeWP_Email_Reflector.php:1808
+msgid "What to do with messages that are received from people who are not in any of the writer lists."
+msgstr "Vad ska programmet göra med mails som kommer från folk som inte finns på någon författarlista?"
+
+#: ThreeWP_Email_Reflector.php:2102
+msgid "Which role is needed to use the mailing list at all."
+msgstr "Vilken användarroll behövs för att öht kunna använda mailinglistfunktionen."
+
+#: ThreeWP_Email_Reflector.php:453
+#: ThreeWP_Email_Reflector.php:892
+#: ThreeWP_Email_Reflector.php:1042
+msgid "With the selected rows"
+msgstr "Med de valda rader gör"
+
+#: ThreeWP_Email_Reflector.php:1875
+#: ThreeWP_Email_Reflector.php:1884
+msgid "Writers"
+msgstr "Författare"
+
+#: ThreeWP_Email_Reflector.php:1145
+#: ThreeWP_Email_Reflector.php:1247
+msgid "Yes"
+msgstr "Ja"
+
+#: ThreeWP_Email_Reflector.php:3038
+#, php-format
+msgid "You have accepted a message to %s"
+msgstr "Du har accepterat att meddelande till %s"
+
+#: ThreeWP_Email_Reflector.php:3041
+#, php-format
+msgid "You have accepted the message sent from <em>%s</em> to the mailing list <em>%s</em>."
+msgstr "Du har accepterat meddelandet från <em>%s</em> som skickades till mailinglistan <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:2942
+#, php-format
+msgid "You tried to send an invalid code to the mailing list <em>%s</em>."
+msgstr "Du försökte skicka en ogiltig kod till mailinglistan <em>%s</em>."
+
+#: ThreeWP_Email_Reflector.php:3086
+msgid "Your message needs authorization:"
+msgstr "Ditt meddelande måste bekräftas:"
+
+#: ThreeWP_Email_Reflector.php:3002
+#, php-format
+msgid "Your message to %s is now authorized"
+msgstr "Ditt meddelande till %s är nu bekräftat"
+
+#: ThreeWP_Email_Reflector.php:3087
+#, php-format
+msgid "Your message to the mailing list <em>%s</em> must be authorized."
+msgstr "Ditt meddelande till mailinglistan <em>%s</em> måste bekräftas."
+
+#: ThreeWP_Email_Reflector.php:2975
+#, php-format
+msgid "Your message to the mailing list <em>%s</em> was rejected because the list did not recognize you as a valid writer."
+msgstr "Ditt meddelande till mailinglistan <em>%s</em> nekandes för att du inte får skriva till listan."
+
+#: ThreeWP_Email_Reflector.php:2973
+msgid "Your message was rejected."
+msgstr "Ditt meddelande accepterades inte till mailinglistan."
+
+#: ThreeWP_Email_Reflector.php:1739
+msgid "imap_open's PHP man page"
+msgstr "PHP hjälpsidan för imap_open"
+
+#~ msgid "List created at %s"
+#~ msgstr "Lista skapad %s"
+
+#~ msgid "Log"
+#~ msgstr "Logghistorik"
+
+#~ msgid "Logging"
+#~ msgstr "Loggning"
+
+#~ msgid "Message"
+#~ msgstr "Meddelande"
+
+#~ msgid "Remove selected log messages"
+#~ msgstr "Ta bort valda loggmeddelanden"
+
+#~ msgid "The selected log messages have been deleted."
+#~ msgstr "De valda loggmeddelandena har tagits bort."
+
+#~ msgid "Time"
+#~ msgstr "Tid"
+
+#~ msgid "Type"
+#~ msgstr "Typ"
+
+#~ msgid "Collection settings"
+#~ msgstr "Inställningar för samling"
+
+#~ msgid "New posts to the mailing list are fetched from an IMAP server."
+#~ msgstr "Nya mails tills mailinglistan hämtas från IMAP servern."
+
+#~ msgid "Send settings"
+#~ msgstr "Inställningar för att skicka"
+
+#~ msgid "Specify which types of log messages are to be saved."
+#~ msgstr "Ange vilka loggmeddelandetyper ska sparas."
+
+#~ msgid "These settings modify messages."
+#~ msgstr "Följande inställningar ändrar i meddelanden."
+
+#~ msgid "Start: %s"
+#~ msgstr "Start: %s"
+
+#~ msgid "CURL handling"
+#~ msgstr "CURL-funktioner"
+
+#~ msgid "Nothing"
+#~ msgstr "Ingenting"
+
+#~ msgid "Queueing message from %s to %s."
+#~ msgstr "Lägger meddelandet från %s till %s i sändkön."
+
+#~ msgid "A new list has been created."
+#~ msgstr "En ny lista har skapats."
+
+#~ msgid "Change to disabled"
+#~ msgstr "Ändra till avaktiverat"
+
+#~ msgid "Change to enabled"
+#~ msgstr "Ändra till aktiverat"
+
+#~ msgid "Debug"
+#~ msgstr "Felsökningsmeddelanden"
+
+#~ msgid "Error"
+#~ msgstr "Felmeddelanden"
+
+#~ msgid "Level"
+#~ msgstr "Meddelandetyp"
+
+#~ msgid "Log level"
+#~ msgstr "Hur mycket ska loggas?"
+
+#, fuzzy
+#~ msgid "No change"
+#~ msgstr "Spara inställningarna"
+
+#~ msgid "Remove debug messages"
+#~ msgstr "Ta bort felsökningsmeddelanden"
+
+#~ msgid "Remove error messages"
+#~ msgstr "Ta bort felmeddelanden"
+
+#~ msgid "Remove info messages"
+#~ msgstr "Ta bort infomeddelanden"
+
+#~ msgid "Remove warning messages"
+#~ msgstr "Ta bort varningar"
+
+#~ msgid "Warning"
+#~ msgstr "Varningar"
+
+#~ msgid "Help"
+#~ msgstr "Hjälp"
+
+#~ msgid "Use the button below to create a new mailing list."
+#~ msgstr "Använd knappan nedan för att skapa en ny mailinglista."
